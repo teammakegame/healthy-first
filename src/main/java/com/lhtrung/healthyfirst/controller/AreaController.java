@@ -1,6 +1,6 @@
 //package com.lhtrung.healthyfirst.controller;
 //
-//import com.lhtrung.healthyfirst.model.Area;
+//import com.lhtrung.healthyfirst.domain.model.Area;
 //import com.lhtrung.healthyfirst.others.Response;
 //import com.lhtrung.healthyfirst.service.AreaImpl;
 //import com.lhtrung.healthyfirst.service.AreaService;

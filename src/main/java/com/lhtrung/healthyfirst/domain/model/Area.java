@@ -1,9 +1,6 @@
-package com.lhtrung.healthyfirst.model;
+package com.lhtrung.healthyfirst.domain.model;
 
 import org.springframework.stereotype.Component;
-
-import javax.persistence.*;
-import java.util.Collection;
 
 @Component
 public class Area {

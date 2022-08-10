@@ -1,9 +1,8 @@
-package com.lhtrung.healthyfirst.others;
+package com.lhtrung.healthyfirst.domain.dto;
 
-import com.lhtrung.healthyfirst.model.Area;
+import com.lhtrung.healthyfirst.domain.model.Area;
 
 import java.util.List;
-import java.util.Optional;
 
 public class Response {
     private List<Area> data;

@@ -1,4 +1,4 @@
-//package com.lhtrung.healthyfirst.model.user;
+//package com.lhtrung.healthyfirst.domain.model.user;
 //
 //import org.springframework.stereotype.Component;
 //

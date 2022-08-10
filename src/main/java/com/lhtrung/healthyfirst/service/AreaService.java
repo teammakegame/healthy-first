@@ -1,7 +1,6 @@
 package com.lhtrung.healthyfirst.service;
 
-import com.lhtrung.healthyfirst.model.Area;
-import com.lhtrung.healthyfirst.others.Response;
+import com.lhtrung.healthyfirst.domain.model.Area;
 
 import java.util.ArrayList;
 

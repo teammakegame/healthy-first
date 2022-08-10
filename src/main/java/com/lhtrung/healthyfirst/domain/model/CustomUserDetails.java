@@ -1,6 +1,6 @@
-//package com.lhtrung.healthyfirst.model;
+//package com.lhtrung.healthyfirst.domain.model;
 //
-//import com.lhtrung.healthyfirst.model.user.User;
+//import com.lhtrung.healthyfirst.domain.model.user.User;
 //import org.springframework.security.core.GrantedAuthority;
 //import org.springframework.security.core.authority.SimpleGrantedAuthority;
 //import org.springframework.security.core.userdetails.UserDetails;

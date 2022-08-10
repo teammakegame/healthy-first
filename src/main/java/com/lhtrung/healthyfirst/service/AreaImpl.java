@@ -1,7 +1,7 @@
 //package com.lhtrung.healthyfirst.service;
 //
 //import com.lhtrung.healthyfirst.dao.AreaDao;
-//import com.lhtrung.healthyfirst.model.Area;
+//import com.lhtrung.healthyfirst.domain.model.Area;
 //import com.lhtrung.healthyfirst.others.Response;
 //import org.springframework.beans.factory.annotation.Autowired;
 //import org.springframework.stereotype.Service;

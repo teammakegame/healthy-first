@@ -1,8 +1,8 @@
 //package com.lhtrung.healthyfirst.dao;
 //
 //import com.lhtrung.healthyfirst.dao.crud.Dao;
-//import com.lhtrung.healthyfirst.model.Area;
-//import com.lhtrung.healthyfirst.model.user.User;
+//import com.lhtrung.healthyfirst.domain.model.Area;
+//import com.lhtrung.healthyfirst.domain.model.user.User;
 //import org.springframework.beans.factory.annotation.Autowired;
 //import org.springframework.jdbc.core.BeanPropertyRowMapper;
 //import org.springframework.jdbc.core.JdbcTemplate;

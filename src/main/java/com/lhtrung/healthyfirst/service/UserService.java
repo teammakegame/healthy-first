@@ -1,6 +1,6 @@
 //package com.lhtrung.healthyfirst.service;
 //
-//import com.lhtrung.healthyfirst.model.user.User;
+//import com.lhtrung.healthyfirst.domain.model.user.User;
 //
 //import java.util.List;
 //

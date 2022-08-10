@@ -1,4 +1,4 @@
-//package com.lhtrung.healthyfirst.model;
+//package com.lhtrung.healthyfirst.domain.model;
 //
 //import net.bytebuddy.dynamic.loading.InjectionClassLoader;
 //
